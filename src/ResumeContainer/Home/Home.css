@@ -1,0 +1,10 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* height: 50vh !important; */
+    min-height: 670px;
+    /* background-image: url('../../assets/home/bg3.jpg'); */
+    background-size: cover;
+    background-color: rgba(18, 23, 37, 0.959);
+}
